@@ -1,6 +1,6 @@
 import { commonAPI } from "./commonAPI";
 
-const serverURL = "https://to-do-backend-botn.onrender.com/todos";
+const serverURL = "https://to-do-backend-botn.onrender.com";
 
 // Add todo
 export const addtodoAPI = (reqBody) => {
